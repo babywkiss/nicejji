@@ -2,4 +2,4 @@
 
 Mostly working 🤝 with **JS/TS/Svelte + Python**
 
-### For contact: [Telegram](t.me/wkiskas)
+### For contact: [Telegram](https://t.me/wkiskas)
